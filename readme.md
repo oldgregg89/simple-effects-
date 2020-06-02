@@ -16,7 +16,7 @@ _The walrus will start out appearing on the web page and disapear on the page wh
 
 ## Known Bugs
 
-_Sometimes the walrus will disapear and not reapear but if you reload the webpage it should return to normal_
+_Sometimes the walrus will disapear and not reapear but if you reload the webpage it should return to normal. Mutiple clickable options to view walrus_
 
 ## Support and contact details
 

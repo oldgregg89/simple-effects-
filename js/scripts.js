@@ -25,3 +25,9 @@ $(document).ready(function() {
     $(".walrus-showing2").fadeOut(2000);
   });
 });
+
+$(document).ready(function() {
+  $(".clickable4").click(function() {
+    $(".toggle").fadeToggle();
+  });
+});
